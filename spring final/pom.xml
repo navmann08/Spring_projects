@@ -4,7 +4,7 @@
 	<groupId>com.pluralsight</groupId>
 	<artifactId>spring_sample_java</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-		// comment aaded
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework</groupId>
